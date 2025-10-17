@@ -59,7 +59,7 @@ GOOGLE_API_KEY=AIzaSyDyeN-XMdmeGDltQByBiOnQJo4_jeKZ0mc
 DEBUG=true
 ```
 ### 5 Jalankan Create Tabbel
-``bash
+```bash
 python createTable.py
 ```
 
@@ -67,6 +67,7 @@ python createTable.py
 ```bash 
 python struk.py
 ```
+
 
 
 
