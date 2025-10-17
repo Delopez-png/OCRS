@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+sqlalchemy
+psycopg2-binary
+pandas
+Pillow
+fuzzywuzzy
+python-Levenshtein  # opsional tapi disarankan agar fuzzywuzzy lebih cepat
+google-generativeai
+nest_asyncio
+
+# Utility
+requests
+aiofiles
